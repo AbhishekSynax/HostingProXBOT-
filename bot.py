@@ -44,11 +44,11 @@ def keep_alive():
 # --- End Flask Keep Alive ---
 
 # --- Configuration ---
-TOKEN = '8388605417:AAEsN-3rSKXFJNLM3IJO_zW8x61SiqHyAYQ'
-OWNER_ID = 7998441787
-ADMIN_ID = 7998441787
-YOUR_USERNAME = '@synaxverified'
-UPDATE_CHANNEL = 'https://t.me/Synaxnetwork'
+TOKEN = '8572313080:AAHqgHkgY-GpKuyZTsjo1b9ShbsOi6-dBR8'
+OWNER_ID = 6068463116
+ADMIN_ID = 6068463116
+YOUR_USERNAME = '@verifiedmanu'
+UPDATE_CHANNEL = 'https://t.me/Synaxbotz'
 
 # Folder setup - using absolute paths
 BASE_DIR = os.path.abspath(os.path.dirname(__file__))
