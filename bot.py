@@ -44,7 +44,7 @@ def keep_alive():
 # --- End Flask Keep Alive ---
 
 # --- Configuration ---
-TOKEN = '7931652240:AAFvXDDHNo1sRE9CSZRlRDC29SYDqSYyLzk'
+TOKEN = '8217597110:AAHBC3H2nAuan-7hjTcc6SwM2Cn5AQxnB9M'
 OWNER_ID = 6068463116
 ADMIN_ID = 6068463116
 YOUR_USERNAME = '@synaxchatrobot'
