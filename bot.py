@@ -47,8 +47,8 @@ def keep_alive():
 TOKEN = '8217597110:AAHBC3H2nAuan-7hjTcc6SwM2Cn5AQxnB9M'
 OWNER_ID = 6068463116
 ADMIN_ID = 6068463116
-YOUR_USERNAME = '@verifiedmanu'
-UPDATE_CHANNEL = 'https://t.me/Synaxbotz'
+YOUR_USERNAME = '@synaxchatrobot'
+UPDATE_CHANNEL = 'https://t.me/synaxbotz'
 
 # Folder setup - using absolute paths
 BASE_DIR = os.path.abspath(os.path.dirname(__file__))
@@ -57,7 +57,7 @@ IROTECH_DIR = os.path.join(BASE_DIR, 'inf')
 DATABASE_PATH = os.path.join(IROTECH_DIR, 'bot_data.db')
 
 # File upload limits
-FREE_USER_LIMIT = 10
+FREE_USER_LIMIT = 5
 SUBSCRIBED_USER_LIMIT = 15
 ADMIN_LIMIT = 999
 OWNER_LIMIT = float('inf')
